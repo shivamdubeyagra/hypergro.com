@@ -42,11 +42,11 @@ npm install react-router-dom tailwindcss react-player
 
 # Deployment
 
-Shortify is deployed on [Netlify](https://golden-piroshki-0d511c.netlify.app/). You can access the deployed version [here](https://golden-piroshki-0d511c.netlify.app/).
+Shortify is deployed on [Netlify](https://app.netlify.com/). You can access the deployed version [here](https://capable-sfogliatella-5f64ff.netlify.app/).
 
 # GitHub Repository
 
-Visit the GitHub repository [here](https://github.com/shivamdubeyagra/hypergro) to explore the source code and contribute to the project.
+Visit the GitHub repository [here](https://github.com/shivamdubeyagra/hypergro.com) to explore the source code and contribute to the project.
 
 ## Acknowledgements
 
