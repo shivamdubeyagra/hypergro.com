@@ -1,30 +1,55 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Video Shorts Platform: Shortify
 
-Currently, two official plugins are available:
+Shortify is a dynamic video shorts platform designed for users to discover, create, and share short videos across various genres. With an intuitive interface and a diverse content library, Shortify fosters creativity, facilitates connections, and provides an engaging community experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
 
-## Expanding the ESLint configuration
+To set up Shortify on your local machine, follow these steps:
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### Installation
 
-- Configure the top-level `parserOptions` property like this:
+1. **Clone the Repository**: 
+   ```
+   git clone https://github.com/shivamdubeyagra/hypergro.git
+   ```
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+2. **Install Dependencies**: 
+   ```
+   cd hypergro
+   npm install
+   ```
+
+3. **Start the Development Server**: 
+   ```
+   npm start
+   ```
+   This command will launch the development server. Open your browser and navigate to `http://localhost:3000` to access Shortify.
+
+### Prerequisites
+
+Before installing Shortify, ensure you have the following dependencies installed:
+
+- [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+- [tailwindcss](https://www.npmjs.com/package/tailwindcss)
+- [react-player](https://www.npmjs.com/package/react-player)
+
+Install them using npm:
+```bash
+npm install react-router-dom tailwindcss react-player
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+# Deployment
+
+Shortify is deployed on [Netlify](https://golden-piroshki-0d511c.netlify.app/). You can access the deployed version [here](https://golden-piroshki-0d511c.netlify.app/).
+
+# GitHub Repository
+
+Visit the GitHub repository [here](https://github.com/shivamdubeyagra/hypergro) to explore the source code and contribute to the project.
+
+## Acknowledgements
+
+We extend our gratitude to the creators and contributors of the libraries and frameworks used in this project for their invaluable work and inspiration.
+
+---
+
