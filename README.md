@@ -22,9 +22,9 @@ To set up Shortify on your local machine, follow these steps:
 
 3. **Start the Development Server**: 
    ```
-   npm start
+   npm run dev
    ```
-   This command will launch the development server. Open your browser and navigate to `http://localhost:3000` to access Shortify.
+   This command will launch the development server.
 
 ### Prerequisites
 
