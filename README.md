@@ -33,6 +33,7 @@ Before installing Shortify, ensure you have the following dependencies installed
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom)
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss)
 - [react-player](https://www.npmjs.com/package/react-player)
+- [typescript](https://www.typescriptlang.org/)
 
 Install them using npm:
 ```bash
