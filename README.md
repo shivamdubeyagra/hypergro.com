@@ -11,7 +11,7 @@ To set up Shortify on your local machine, follow these steps:
 
 1. **Clone the Repository**: 
    ```
-   git clone https://github.com/shivamdubeyagra/hypergro.git
+   git clone https://github.com/shivamdubeyagra/hypergro.com.git
    ```
 
 2. **Install Dependencies**: 
