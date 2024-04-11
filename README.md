@@ -42,7 +42,7 @@ npm install react-router-dom tailwindcss react-player
 
 # Deployment
 
-Shortify is deployed on [Netlify](https://app.netlify.com/). You can access the deployed version [here](https://capable-sfogliatella-5f64ff.netlify.app/).
+Shortify is deployed on Netlify. You can access the deployed version [here](https://capable-sfogliatella-5f64ff.netlify.app/).
 
 # GitHub Repository
 
