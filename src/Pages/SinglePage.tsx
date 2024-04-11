@@ -122,7 +122,7 @@ const SinglePage = () => {
         </div>
       </div>
       <div
-        className={`fixed right-48 top-56 shadow-2xl rounded-lg ${
+        className={`fixed right-48 top-[23rem] shadow-2xl rounded-lg ${
           commentToggle ? "block" : "hidden"
         } h-[200px] overflow-y-auto`}
       >
